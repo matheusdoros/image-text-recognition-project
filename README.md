@@ -20,7 +20,7 @@ Este projeto demonstra a aplicação de técnicas de IA generativa e reconhecime
 ![Imagem Original 1](inputs/remosoul.jpg)
 
 ### Resultados
-![Resultado 1](output/remosoul-text.jpg)
+![Resultado 1](outputs/remosoul-text.jpg)
 
 ## Possibilidades Futuras
 - Melhorar a precisão do modelo com mais dados de treinamento.
